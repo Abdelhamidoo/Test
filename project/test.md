@@ -1,2 +1,2 @@
 This is My image
-[Image Alt](Test.png)
+![Image Alt](Test.png)
